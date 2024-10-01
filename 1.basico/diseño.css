@@ -1,0 +1,15 @@
+.container{background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+}
+
+.rojo{
+    background-color: brown;
+    width: 250px;
+    height: 250px;
+}
+.amarillo{
+    background-color: rgb(239, 205, 15);
+    width: 250px;
+    height: 250px;
+}
